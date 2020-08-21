@@ -1,0 +1,7 @@
+.selected {
+	background-color: lightpink;
+}
+
+ul li.collection-item active {
+	background-color:lightpink;
+}
